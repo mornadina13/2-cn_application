@@ -2,13 +2,9 @@
 
 1. Team_Info
 
-Name : Byungwook Hyeon
-Student_ID : 2017078840
-Email : mornadina13@gmail.com
+Name : Byungwook Hyeon<br>Student_ID : 2017078840<br>Email : mornadina13@gmail.com
 
-Name : Dongwan Kang
-Student_ID : 2017097229
-Email : dwkang707@gmail.com
+Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 
 
 
