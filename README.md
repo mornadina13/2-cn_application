@@ -36,11 +36,9 @@ Make Introduction of Kubernetes for Beginner
 <br>
 
 4. 기여도
-- 현병욱
-Chapter 1, Chapter 2, Chapter 4, 전체 통합, Final_report 작성
+- 현병욱 : Chapter 1, Chapter 2, Chapter 4, 전체 통합, Final_report 작성
 
-- 강동완
-Chapter 2, Chapter 3, Chapter 5, Commit log 종합
+- 강동완 : Chapter 2, Chapter 3, Chapter 5, Commit log 종합
 
 <br>
 <br>
