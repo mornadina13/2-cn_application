@@ -13,8 +13,8 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 ∙ Make Introduction of Kubernetes for Beginner
 - Kubernetes Introduction
 - Kubernetes Concepts
-- Kubernetes APIs
-- Kubernetes Components
+- Monitoring, Logging, and Troubleshooting
+- Practice Test
 - Support Projects
 
 
