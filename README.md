@@ -63,21 +63,32 @@
 
 - OSB_HW#10.pdf
 → 기존 프로젝트 참여에 따른 프로젝트 소개, 선정 이유, 그리고 기여 방법에 대한 보고서
+
 <br>
+
 - 커뮤니케이션 로그
 → 프로젝트 진행 간의 팀원과의 의사소통은 slack 만을 사용했습니다. ( 채널명 : 2-cn_application )
+
 <br>
+
 - commit.pdf
 → Commit Log 내역
+
 <br>
+
 - 2017078840_branch_commit_log.csv
 → 현병욱 사용 2017078840 Branch commit log의 csv
+
 <br>
+
 - 2017097229_branch_commit_log.csv
 → 강동완 사용 2017097229 Branch commit log의 csv
+
 <br>
+
 - master_branch_commit_log.csv
 → 최종 결과물 제출용 전체 사용 Master Branch commit log의 csv
+
 <br>
 
 ※ 프로젝트는 2-cn_application 리파지토리에 각각 학번을 이름으로 하는 Branch를 생성하여 각 Branch에 커밋하는 형식으로 수행했습니다.
