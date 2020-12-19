@@ -11,6 +11,8 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 
 2. Project Introduction
 
+기존 프로젝트 참여로 Kubernetes 입문자용 자료 제작을 목표함
+
 Make Introduction of Kubernetes for Beginner
 - Kubernetes Introduction
 - Kubernetes Concepts
@@ -49,7 +51,7 @@ Chapter 2, Chapter 3, Chapter 5, Commit log 종합
 - Final_report.pdf
 → 프로젝트 수행 보고서
 - OSB_HW#10.pdf
-→ 프로젝트 초기 계획서
+→ 기존 프로젝트 참여에 따른 프로젝트 소개, 선정 이유, 그리고 기여 방법에 대한 보고서
 - commit.pdf
 → Commit Log 내역
 - 커뮤니케이션 로그
