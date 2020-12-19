@@ -5,8 +5,10 @@
 Name : Byungwook Hyeon<br>Student_ID : 2017078840<br>Email : mornadina13@gmail.com
 
 Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
+
 <br>
 <br>
+
 2. Project
 
 ∙ Make Introduction of Kubernetes for Beginner
@@ -15,8 +17,10 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 - Monitoring, Logging, and Troubleshooting
 - Practice Test
 - Support Projects
+
 <br>
 <br>
+
 3. 참고자료 
 - Gigi Sayfan - Mastering Kubernetes
 - Kakao_Container
