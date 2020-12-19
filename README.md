@@ -24,4 +24,4 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 - Kakao_Kubernetes
 - Cloud Native Computing Platform - Cocktail
 
-※ 용량 초과로 업로드 
+※ 용량 초과로 업로드 불가
