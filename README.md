@@ -12,16 +12,15 @@
 <br> 학번 : 2017097229
 <br> 소속 : 한양대학교 ERICA, 소프트웨어융합대학 소프트웨어학부 컴퓨터전공
 <br> Email : dwkang707@gmail.com
-<br> Github : dwkang707.github.io
+<br> Github : https://dwkang707.github.io
 
 <br>
 <br>
 
-2. Project Introduction
+2. 프로젝트 소개
 
-기존 프로젝트 참여로 Kubernetes 입문자용 자료 제작을 목표함
+기존 프로젝트 참여로 Kubernetes 입문자용 서적 "Beginning Kubernetes" 제작을 목표함
 
-Make Introduction of Kubernetes for Beginner
 - Kubernetes Introduction
 - Kubernetes Concepts
 - Monitoring, Logging, and Troubleshooting
