@@ -53,10 +53,14 @@
 5. 최종 제출물
 - Beginning Kubernetes.pdf 
 → 프로젝트 최종 결과물
+
 <br>
+
 - Final_report.pdf
 → 프로젝트 수행 최종 보고서
+
 <br>
+
 - OSB_HW#10.pdf
 → 기존 프로젝트 참여에 따른 프로젝트 소개, 선정 이유, 그리고 기여 방법에 대한 보고서
 <br>
