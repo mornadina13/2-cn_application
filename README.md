@@ -57,10 +57,10 @@
 → 프로젝트 수행 보고서
 - OSB_HW#10.pdf
 → 기존 프로젝트 참여에 따른 프로젝트 소개, 선정 이유, 그리고 기여 방법에 대한 보고서
-- commit.pdf
-→ Commit Log 내역
 - 커뮤니케이션 로그
 → 프로젝트 진행 간의 팀원과의 의사소통은 slack 만을 사용했습니다. ( 채널명 : 2-cn_application )
+- commit.pdf
+→ Commit Log 내역
 - 2017078840_branch_commit_log.csv
 → 현병욱 사용 2017078840 Branch commit log의 csv
 - 2017097229_branch_commit_log.csv
