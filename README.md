@@ -28,7 +28,7 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 - Cloud Native Computing Platform - Cocktail
 - Udemy - CKA with Practice
 
-※ 용량 초과로 업로드 불가
+※ 용량 초과 및 저작권  업로드 불가
 
 <br>
 <br>
