@@ -26,17 +26,19 @@ Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
 - Kakao_Container
 - Kakao_Kubernetes
 - Cloud Native Computing Platform - Cocktail
+- Udemy - CKA with Practice
 
 ※ 용량 초과로 업로드 불가
+
 <br>
 <br>
 
 4. 기여도
 - 현병욱
-메인 표지, Chapter 1, Chapter 2, Chapter 4, Final_report 작성
+Chapter 1, Chapter 2, Chapter 4, 전체 통합, Final_report 작성
 
 - 강동완
-Chapter 2, Chapter 3, Chapter 5
+Chapter 2, Chapter 3, Chapter 5, Commit log 종합
 
 <br>
 <br>
