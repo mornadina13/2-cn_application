@@ -1,10 +1,18 @@
 # 2-cn_application 
 
-1. Team_Info 
+1. 팀 소개
 
-Name : Byungwook Hyeon<br>Student_ID : 2017078840<br>Email : mornadina13@gmail.com
+- 현병욱
+<br> 학번 : 2017078840
+<br> 소속 : 한양대학교 ERICA, 소프트웨어융합대학 소프트웨어학부 소프트웨어전공
+<br> Email : mornadina13@gmail.com
+<br> Github : https://mornadina13.github.io/
 
-Name : Dongwan Kang<br>Student_ID : 2017097229<br>Email : dwkang707@gmail.com
+- 강동완
+<br> 학번 : 2017097229
+<br> 소속 : 한양대학교 ERICA, 소프트웨어융합대학 소프트웨어학부 컴퓨터전공
+<br> Email : dwkang707@gmail.com
+<br> Github : dwkang707.github.io
 
 <br>
 <br>
