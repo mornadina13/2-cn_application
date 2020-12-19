@@ -54,3 +54,5 @@ Chapter 2, Chapter 3, Chapter 5, Commit log 종합
 → Commit Log 내역
 - 커뮤니케이션 로그
 → 프로젝트 진행 간의 팀원과의 의사소통은 slack 만을 사용했습니다. ( 채널명 : 2-cn_application )
+
+※ 프로젝트는 2-cn_application 리파지토리에 각각 학번을 이름으로 하는 Branch를 생성하여 각 Branch에 커밋하는 형식으로 수행했습니다.
