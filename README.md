@@ -53,4 +53,4 @@ Chapter 2, Chapter 3, Chapter 5, Commit log 종합
 - commit.pdf
 → Commit Log 내역
 - 커뮤니케이션 로그
-→ slack 만을 사용해서 프로젝트를 수행했습니다. ( 채널명 : 2-cn_application )
+→ 프로젝트 진행 간의 팀원과의 의사소통은 slack 만을 사용했습니다. ( 채널명 : 2-cn_application )
